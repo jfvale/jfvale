@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @jfvale
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 John Vale, Senior Systems Engineer at SAS Institute Inc.
+- 👀 Intests in Education, Finance (Performance Managment), SAS Coding and Music.
+- 🌱 Currently learning to work with GitHub and Azure.
+- 💞️ Looking to collaborate with PACE (Performance Analytics Center of Excellence) and analytics for Education.
+- 📫 Reach me at John.Vale@sas.com and my SAS buinsess line: 1-919-531-9260
 
-<!---
-jfvale/jfvale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+jfvale/jfvale is a ✨ my special ✨ GitHub repository because it's `README.md` appears on my GitHub profile.
